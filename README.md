@@ -2,7 +2,7 @@
 
 ## Description
 Le StaR-DT est un géostandard de description simplifiée des réseaux relevant de la réglementation anti-endommagement, à savoir l’arrêté du 15 février 2012 modifié en application du décret DT-DICT (Décret n° 2011-1241 du 5 octobre 2011 et ses décrets modificatifs), cité dans le document sous son nom courant Décret DT-DICT.
-Limité aux objets les plus utiles et en n'abordant aucune logique « métiers », le StaR-DT constitue le socle commun de base décrivant à très grande échelle les réseaux concernés par le Décret DT-DICT afin de permettre à leurs gestionnaires et aux collectivités concernées d’échanger les informations utiles à la géolocalisation des ouvrages en amont des travaux. La [documentation du standard]https://cnig.gouv.fr/IMG/documents_wordpress/2019/11/CNIG_STAR-DT_v1.0.pdf) est disponible ici.
+Limité aux objets les plus utiles et en n'abordant aucune logique « métiers », le StaR-DT constitue le socle commun de base décrivant à très grande échelle les réseaux concernés par le Décret DT-DICT afin de permettre à leurs gestionnaires et aux collectivités concernées d’échanger les informations utiles à la géolocalisation des ouvrages en amont des travaux. La [documentation du standard](https://cnig.gouv.fr/IMG/documents_wordpress/2019/11/CNIG_STAR-DT_v1.0.pdf) est disponible ici.
 
 ## Objectif
 Le StaR-DT est un socle commun qui est composé par des données « vecteurs ». Il a pour objectif de fiabiliser l’échange de données cartographiques des implantations des réseaux (mais aussi l'établissement de plans de synthèse) situés à proximité de l'emprise d'un chantier entre responsables de projets, exécutants de travaux (au sens du Décret DT-DICT) et leurs prestataires d'études.
